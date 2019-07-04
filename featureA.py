@@ -1,8 +1,9 @@
-'''
+import os
 
-=======	分BBBBBBBBBBBBBBBBBBBBBBBBBBB
 
-至 =======	master AAAAAAAAAAAAAAAA
-======= 至分支中该地方为内容
+def get_name():
+    print(os.path.curdir)
 
-'''
+
+def set_name():
+    pass
